@@ -1,5 +1,23 @@
-This folder will contain all the coding/challenges I'm doing for the PiHut Raspberry Pi advent calendar. 
+# 🎄 Raspberry Pi – Advent Calendar Project
 
-I originally started this as a continuation from the "Google Cybersecurity" course as a fun follow up to do over the holiday period to get more familiar with Python in a playful (festive) way.
+A festive, hands-on coding project using **Python** and a **Raspberry Pi**, inspired by a daily Advent calendar format.
 
-Link to the product in case you're interested yourself: https://thepihut.com/products/maker-advent-calendar-includes-raspberry-pi-pico-h
+Each day focuses on a small challenge, script, or experiment related to:
+- Python programming
+- Hardware interaction (GPIO)
+- Linux fundamentals
+- Automation & scripting
+- Creative problem solving
+
+---
+
+## 🔧 Tech Used
+
+- Raspberry Pi
+- Python
+- Linux (Raspberry Pi OS)
+- GPIO / hardware projects
+- VS Code
+- GitHub
+
+---
