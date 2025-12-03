@@ -13,11 +13,10 @@ Each day focuses on a small challenge, script, or experiment related to:
 
 ## 🔧 Tech Used
 
-- Raspberry Pi
-- Python
-- Linux (Raspberry Pi OS)
+- Raspberry Pi Pico
+- Micropython
 - GPIO / hardware projects
-- VS Code
+- Thonny
 - GitHub
 
 ---
