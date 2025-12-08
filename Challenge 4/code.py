@@ -1,4 +1,4 @@
-##Little bit of code that allows you to fade the lights with the analogue knob. Will need to amend a bit in thhe future to include all LED's
+##Little bit of code that allows you to fade the lights with the analogue knob. Will need to amend a bit in the future to include all LED's
 from machine import ADC, Pin, PWM
 import time
 
