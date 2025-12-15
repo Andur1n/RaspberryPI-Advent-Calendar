@@ -20,3 +20,5 @@ Each day focuses on a small challenge, script, or experiment related to:
 - GitHub
 
 ---
+
+⚠️ Please note most of the coding comes directly from Raspberry Huts page for the advent calendar. Coding here has been slightly amended for learning/play purposes as I wanted all code in 1 place for future use.
